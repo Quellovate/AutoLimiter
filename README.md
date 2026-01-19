@@ -22,9 +22,11 @@ python main.py
 
 ## 3. 其它说明
 必备文件参考，`import`中放一个wav文件，名称任意：
+
 ![](assets/view1.png)
 
 运行后将在图形界面中操作：
+
 ![](assets/view2.png)
 
 界面加载后，可自行对 **基准音频**（仅用于实时播放方便音量大小比对）、**输入音频**（将被Limiter处理） 和 **输出路径** 进行选择，默认使用项目文件夹中的 **VST3** Shell 文件，可自行选择本机的文件（通常位于 C:\Program Files\Common Files\VST3）或复制过来。
@@ -39,3 +41,4 @@ python main.py
 
 
 代码编写过程中使用了 Google Gemini 进行辅助。
+
